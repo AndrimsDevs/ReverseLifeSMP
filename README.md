@@ -1,6 +1,8 @@
 # Reverse Life SMP
 
 Survival Minecraft Plugin for the Reverse Life SMP
+The ownership of ReverseLifeSMP has been transferred to Andrims Networks
+This plugin will no longer be maintained by AwesomeBFM. For any quesions, contact ault@andrims.com
 
 ### Introduction
 Please keep in mind that this plugin has been designed for the Reverse Life SMP, while
